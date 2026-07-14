@@ -33,11 +33,8 @@ AAPL
 MSFT
 NVDA
 TSLA
-GOOGL
-AMZN
 ```
-
-The dashboard automatically retrieves historical price data from Yahoo Finance and performs statistical analysis on daily returns.
+You can give any valid name.The dashboard automatically retrieves historical price data from Yahoo Finance and performs statistical analysis on daily returns.
 
 ---
 
